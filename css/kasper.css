@@ -1090,124 +1090,6 @@ header nav .toggle-menu {
     top: -12px;
     right: -7px;
 }
-
-
-/* 
-.skills .container .box-2 .ranging .range .progress-1::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    background-color: var(--main-color);
-    width: 90%;
-    left: 0;
-    height: 100%;
-
-}
-
-
-.skills .container .box-2 .ranging .range .progress-1::after {
-    content: "90%";
-    position: absolute;
-    top: -45px;
-    right: 25px;
-    background-color: black;
-    color: white;
-    width: 40px;
-    height: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 6px;
-
-}
-
-
-.skills .container .box-2 .ranging .range .progress-2::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    background-color: var(--main-color);
-    width: 85%;
-    left: 0;
-    height: 100%;
-
-}
-
-
-.skills .container .box-2 .ranging .range .progress-2::after {
-    content: "85%";
-    position: absolute;
-    top: -45px;
-    right: 50px;
-    background-color: black;
-    color: white;
-    width: 40px;
-    height: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 6px;
-
-}
-
-
-.skills .container .box-2 .ranging .range .progress-3::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    background-color: var(--main-color);
-    width: 80%;
-    left: 0;
-    height: 100%;
-
-}
-
-
-.skills .container .box-2 .ranging .range .progress-3::after {
-    content: "80%";
-    position: absolute;
-    top: -45px;
-    right: 70px;
-    background-color: black;
-    color: white;
-    width: 40px;
-    height: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 6px;
-
-}
-
-
-.skills .container .box-2 .ranging .range .progress-4::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    background-color: var(--main-color);
-    width: 90%;
-    left: 0;
-    height: 100%;
-
-}
-
-
-.skills .container .box-2 .ranging .range .progress-4::after {
-    content: "90%";
-    position: absolute;
-    top: -45px;
-    right: 25px;
-    background-color: black;
-    color: white;
-    width: 40px;
-    height: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 6px;
-
-} */
-
 /* end skills */
 
 /* start quote */
@@ -1263,10 +1145,7 @@ header nav .toggle-menu {
     font-weight: normal;
 }
 
-
-
 /* end quote */
-
 
 /*start pricing  */
 
@@ -1298,10 +1177,7 @@ header nav .toggle-menu {
 
 @media (max-width:767px) {
     .pricing .container .price .price-1 {
-        /* margin-bottom: 100px; */
         width: 100%;
-        /* height: 60vh; */
-
     }
 }
 
@@ -1450,7 +1326,6 @@ header nav .toggle-menu {
 }
 
 /*end pricing  */
-
 
 /* start contact */
 
@@ -1681,8 +1556,6 @@ header nav .toggle-menu {
     width: fit-content;
     align-self: end;
     margin-right: 10%;
-    /* display: flex; */
-    /* margin-left: auto; */
 }
 
 
